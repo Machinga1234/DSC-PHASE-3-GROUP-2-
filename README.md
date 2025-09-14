@@ -69,6 +69,8 @@ Class Imbalance: The imbalanced h1n1_vaccine target was balanced using SMOTE to 
 
 ### EDA Insights
 Visualizations: Over 10 visualizations were created, including bar plots, heatmaps, and correlation matrices, to explore relationships between features and H1N1 vaccine uptake.
+<img width="1984" height="1183" alt="image" src="https://github.com/user-attachments/assets/b0e572e2-fcec-4c3e-bd72-9cae2a27368c" />
+
 
 ### Key Findings:
 1. Doctor Recommendations: Strong positive correlation with vaccine uptake, as individuals with a doctor’s recommendation were significantly more likely to get vaccinated.
@@ -133,12 +135,9 @@ The project successfully identified key drivers of H1N1 vaccine uptake, with doc
 4. Gabriel Tenesi(gabriel.tenesi@student.moringaschool.com)
 5. Wesley Kipsang(wesley.kipsang@student.moringaschool.com)
 
-* [The H1N1 Vaccine Uptake Prediction Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf
-
   How to Run the Project
 
-Clone the repo: git clone https://github.com/your-repo/DSC-PHASE-3-GROUP-2-.git
-Install dependencies: pip install -r requirements.txt (add if needed).
+Clone the repo: 
 Run the notebook: jupyter notebook H1N1_vaccine_prediction.ipynb
 Dataset: H1N1_Flu_Vaccines.csv (source: U.S. National 2009 H1N1 Flu Survey).
 
@@ -146,9 +145,9 @@ Dataset: H1N1_Flu_Vaccines.csv (source: U.S. National 2009 H1N1 Flu Survey).
 The repository contains:
 
 * Jupyter Notebook: H1N1_vaccine_prediction.ipynb (data analysis, modeling, visualizations)
-* Presentation Slides: PDF file (e.g., presentation_slides.pdf)
+* Presentation Slides: PDF file ( [The H1N1 Vaccine Uptake Prediction Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf)
 * Dataset: H1N1_Flu_Vaccines.csv (U.S. National 2009 H1N1 Flu Survey data)
-* Data Report: Likely a document (e.g., data_report.pdf or .docx)
+* Data Report: ([Machine Learning Model to predict the uptake of H1N1](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/Machine%20Learning%20Model%20to%20Predict%20the%20Uptake%20of%20H1N1-%20Data%20Report.docx) 
 * README.md: Project overview 
 * .gitignore: Specifies files to ignore in version control
 
