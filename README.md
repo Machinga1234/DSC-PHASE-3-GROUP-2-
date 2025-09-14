@@ -132,3 +132,23 @@ The project successfully identified key drivers of H1N1 vaccine uptake, with doc
 3. Zipporah Muriithi(zipporah.muriithi1@student.moringaschool.com)
 4. Gabriel Tenesi(gabriel.tenesi@student.moringaschool.com)
 5. Wesley Kipsang(wesley.kipsang@student.moringaschool.com)
+
+* [The H1N1 Vaccine Uptake Prediction Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf
+
+  How to Run the Project
+
+Clone the repo: git clone https://github.com/your-repo/DSC-PHASE-3-GROUP-2-.git
+Install dependencies: pip install -r requirements.txt (add if needed).
+Run the notebook: jupyter notebook H1N1_vaccine_prediction.ipynb
+Dataset: H1N1_Flu_Vaccines.csv (source: U.S. National 2009 H1N1 Flu Survey).
+
+## Navigating the Repository
+The repository contains:
+
+* Jupyter Notebook: H1N1_vaccine_prediction.ipynb (data analysis, modeling, visualizations)
+* Presentation Slides: PDF file (e.g., presentation_slides.pdf)
+* Dataset: H1N1_Flu_Vaccines.csv (U.S. National 2009 H1N1 Flu Survey data)
+* Data Report: Likely a document (e.g., data_report.pdf or .docx)
+* README.md: Project overview 
+* .gitignore: Specifies files to ignore in version control
+
