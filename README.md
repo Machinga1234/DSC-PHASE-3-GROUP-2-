@@ -151,9 +151,8 @@ The project successfully identified key drivers of H1N1 vaccine uptake, with doc
 5. Wesley Kipsang(wesley.kipsang@student.moringaschool.com)
 
 ### How to Run the Project
-Clone the repository: 
-Run the notebook: ([H1N1_vaccine_prediction.ipynb](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1-prediction.ipynb) 
-Dataset: H1N1_Flu_Vaccines.csv (source: U.S. National 2009 H1N1 Flu Survey).
+Clone the repository and Run the notebook: ([H1N1_vaccine_prediction.ipynb](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1-prediction.ipynb) 
+
 
 ### Navigating the Repository
 The repository contains:
