@@ -115,7 +115,7 @@ Emphasis on ROC-AUC due to class imbalance, ensuring effecient performance evalu
 3. opinion_h1n1_risk: Perceived risk of H1N1 infection was a key driver.
 4. h1n1_knowledge: Higher knowledge about H1N1 increased vaccination likelihood.
 5. health_worker: Health workers were more likely to be vaccinated.
-* Visualization: A horizontal bar plot of the top 10 features was generated, highlighting their mean importance (AUC drop).
+
 
 ## STEP 5: Evaluation and Results
 ### Model Performance
