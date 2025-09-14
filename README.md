@@ -69,6 +69,23 @@ Class Imbalance: The imbalanced h1n1_vaccine target was balanced using SMOTE to 
 
 ### EDA Insights
 Visualizations: Over 10 visualizations were created, including bar plots, heatmaps, and correlation matrices, to explore relationships between features and H1N1 vaccine uptake.
+Below are some of the selected visualizations made from the project analysis:
+
+* Bar plot to show how demographic factors affect H1N1 vaccination uptake
+<img width="1984" height="1183" alt="image" src="https://github.com/user-attachments/assets/b0e572e2-fcec-4c3e-bd72-9cae2a27368c" />
+
+* Correlation Heatmap: Behaviors and Conditions vs H1N1 Vaccine Uptake
+<img width="1098" height="684" alt="image" src="https://github.com/user-attachments/assets/9bb64d11-04b7-41fe-b4d5-08ee8143b8b5" />
+
+* Impact of Doctor Recommendation on H1N1 Vaccination and Impact of Health Worker Status on H1N1 Vaccination
+<img width="1584" height="884" alt="image" src="https://github.com/user-attachments/assets/94ebbf51-9b71-4505-9e46-2db14aff8f38" />
+
+* ROC curve using tuned random forest
+<img width="784" height="584" alt="image" src="https://github.com/user-attachments/assets/e75b92e1-d8da-414b-ba53-0721d5e74813" />
+
+
+
+
 
 ### Key Findings:
 1. Doctor Recommendations: Strong positive correlation with vaccine uptake, as individuals with a doctor’s recommendation were significantly more likely to get vaccinated.
@@ -132,3 +149,18 @@ The project successfully identified key drivers of H1N1 vaccine uptake, with doc
 3. Zipporah Muriithi(zipporah.muriithi1@student.moringaschool.com)
 4. Gabriel Tenesi(gabriel.tenesi@student.moringaschool.com)
 5. Wesley Kipsang(wesley.kipsang@student.moringaschool.com)
+
+### How to Run the Project
+Clone the repository and Run the notebook: ([H1N1_vaccine_prediction.ipynb](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1-prediction.ipynb) 
+
+
+### Navigating the Repository
+The repository contains:
+
+*  Jupyter Notebook: ([H1N1_vaccine_prediction.ipynb](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1-prediction.ipynb) (data analysis, modeling, visualizations)
+* Presentation Slides: PDF file ( [The H1N1 Vaccine Uptake Prediction Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf)
+* Dataset: ([H1N1_Flu_Vaccines.csv](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1_Flu_Vaccines.csv)) (U.S. National 2009 H1N1 Flu Survey data)
+* Data Report: ([Machine Learning Model to predict the uptake of H1N1](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/Machine%20Learning%20Model%20to%20Predict%20the%20Uptake%20of%20H1N1-%20Data%20Report.docx) 
+* README.md: Project overview 
+* .gitignore: Specifies files to ignore in version control
+
