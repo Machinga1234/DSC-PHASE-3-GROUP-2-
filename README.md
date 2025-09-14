@@ -77,7 +77,7 @@ Below are some of the selected visualizations made from the project analysis:
 * Correlation Heatmap: Behaviors and Conditions vs H1N1 Vaccine Uptake
 <img width="1098" height="684" alt="image" src="https://github.com/user-attachments/assets/9bb64d11-04b7-41fe-b4d5-08ee8143b8b5" />
 
-*
+* Impact of Doctor Recommendation on H1N1 Vaccination and Impact of Health Worker Status on H1N1 Vaccination
 <img width="1584" height="884" alt="image" src="https://github.com/user-attachments/assets/94ebbf51-9b71-4505-9e46-2db14aff8f38" />
 
 * ROC curve using tuned random forest
