@@ -69,10 +69,18 @@ Class Imbalance: The imbalanced h1n1_vaccine target was balanced using SMOTE to 
 
 ### EDA Insights
 Visualizations: Over 10 visualizations were created, including bar plots, heatmaps, and correlation matrices, to explore relationships between features and H1N1 vaccine uptake.
-Below are some of the visualizations made from the project:
+Below are some of the selected visualizations made from the project analysis:
+
+* Bar plot to show how demographic factors affect H1N1 vaccination uptake
 <img width="1984" height="1183" alt="image" src="https://github.com/user-attachments/assets/b0e572e2-fcec-4c3e-bd72-9cae2a27368c" />
+
+* Correlation Heatmap: Behaviors and Conditions vs H1N1 Vaccine Uptake
 <img width="1098" height="684" alt="image" src="https://github.com/user-attachments/assets/9bb64d11-04b7-41fe-b4d5-08ee8143b8b5" />
+
+*
 <img width="1584" height="884" alt="image" src="https://github.com/user-attachments/assets/94ebbf51-9b71-4505-9e46-2db14aff8f38" />
+
+* ROC curve using tuned random forest
 <img width="784" height="584" alt="image" src="https://github.com/user-attachments/assets/e75b92e1-d8da-414b-ba53-0721d5e74813" />
 
 
