@@ -157,7 +157,7 @@ Clone the repository and Run the notebook: ([H1N1_vaccine_prediction.ipynb](http
 ### Navigating the Repository
 The repository contains:
 
-*  Jupyter Notebook: ([H1N1_vaccine_prediction.ipynb](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1-prediction.ipynb) (data analysis, modeling, visualizations)
+*  Jupyter Notebook: ([H1N1_vaccine_prediction(1).ipynb](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1-prediction(1).ipynb) (data analysis, modeling, visualizations)
 * Presentation Slides: PDF file ( [The H1N1 Vaccine Uptake Prediction Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf)
 * Dataset: ([H1N1_Flu_Vaccines.csv](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/H1N1_Flu_Vaccines.csv)) (U.S. National 2009 H1N1 Flu Survey data)
 * Data Report: ([Machine Learning Model to predict the uptake of H1N1](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/Machine%20Learning%20Model%20to%20Predict%20the%20Uptake%20of%20H1N1-%20Data%20Report.docx) 
